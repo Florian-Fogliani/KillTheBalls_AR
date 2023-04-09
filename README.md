@@ -8,7 +8,7 @@ The objective was to create, in pairs, a augmented reality game with fixed const
 
 Co-Worker : Maxence Moncel
 <br>
-
+<br>
 
 ## Game Design
 For this project we decide a simple game of killing balls in a 3D environment in augmented reality. The principle is to get the best score and still survive longer as we can. The score is determined by the balls we kill, some balls are enemies and you have to kill them to get a higher score, some balls are friends and you have to avoid killing them because you can lose points. With the time, many friends appear and you have to deal with to lose the least points. Moreover, a counter is decremented every time an enemy appears in the scene, you have a maximum of 15 enemies in the scene before losing.  
